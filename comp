@@ -1,8 +1,0 @@
-#!/bin/bash
-
-cd cmake
-rm -rf
-cmake ..
-make
-mv game ../build/game
-read -rsp $'Press enter to exit...\n'
