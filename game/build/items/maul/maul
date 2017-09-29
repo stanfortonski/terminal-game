@@ -1,0 +1,14 @@
+name=Młot na Ogra
+strength=20
+defense=20
+dmgmin=20
+dmgmax=50
+crit=20
+block=20
+gold=400
+position=1
+type=2
+rank=6
+descriptions=Wielki ciężki młot. Powiadają, że za jego pomocą można zabić trolla jednym zamachem!
+needlvl=14
+needstr=70

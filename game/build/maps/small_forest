@@ -1,0 +1,13 @@
+name=Mniejszy las
+description=Chata rybaka który cie ocalił. Zawsze jesteś tu mile widziany.
+id=5
+npc[1]=python
+npc[2]=python
+npc[3]=black_wolf
+npc[4]=black_wolf
+npc[5]=black_wolf
+npc[6]=black_wolf
+npc[7]=agresiv_black_wolf
+npc[8]=agresiv_black_wolf
+npc[9]=armored_black_goblin
+npc[10]=big_saurian

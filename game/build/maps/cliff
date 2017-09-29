@@ -1,0 +1,12 @@
+name=Urwisko
+description=Wygląda na to, że tu kończy się droga.\nMost musial zostać zniszonczony lata temu.\nWygląda na to że zadomowiły się tu gobliny.
+id=4
+npc[1]=goblin
+npc[2]=goblin
+npc[3]=goblin
+npc[4]=goblin
+npc[5]=goblin
+npc[6]=goblin
+npc[7]=goblin
+npc[8]=armored_goblin
+npc[9]=black_goblin

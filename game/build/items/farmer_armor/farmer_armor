@@ -1,0 +1,13 @@
+name=Farmerskie spodnie
+defense=5
+energymin=1
+energymax=1
+energyreg=1
+dodge=1
+block=1
+hitback=1
+gold=100
+position=1
+type=6
+rank=0
+needlvl=1

@@ -1,3 +1,0 @@
-/home/programista/Dokumenty/Programowanie/CPP/projects/terminal-game/npc_maker/cmake/CMakeFiles/edit_cache.dir
-/home/programista/Dokumenty/Programowanie/CPP/projects/terminal-game/npc_maker/cmake/CMakeFiles/rebuild_cache.dir
-/home/programista/Dokumenty/Programowanie/CPP/projects/terminal-game/npc_maker/cmake/CMakeFiles/npc_maker.dir

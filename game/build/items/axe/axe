@@ -1,0 +1,12 @@
+name=Topór
+dmgmin=1
+dmgmax=5
+crit=3
+gold=50
+position=1
+type=2
+rank=0
+needlvl=1
+needstr=3
+component[1]=stick
+component[2]=steel

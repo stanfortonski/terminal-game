@@ -1,0 +1,12 @@
+name=Zupa warzywna
+energymin=10
+hpmin=24
+gold=22
+position=1
+type=1
+rank=0
+component[1]=carrot
+component[2]=beetroot
+component[3]=potato
+component[4]=tomato
+component[5]=gralic

@@ -1,0 +1,14 @@
+name=Duży topór obosieczny
+strength=3
+dmgmin=15
+dmgmax=15
+crit=10
+powercrit=5
+block=5
+hitback=5
+gold=200
+position=1
+type=2
+rank=0
+needlvl=10
+needstr=15

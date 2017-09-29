@@ -1,0 +1,9 @@
+name=Zupa ziołowa
+energymin=20
+gold=30
+position=1
+type=1
+rank=6
+component[1]=herbs
+component[2]=gralic
+component[3]=rat_tail

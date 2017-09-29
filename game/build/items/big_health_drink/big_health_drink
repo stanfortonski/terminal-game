@@ -1,0 +1,11 @@
+name=Eliksir uzdrawiający
+gold=55
+position=1
+type=1
+rank=0
+hpmin=100
+component[1]=water
+component[2]=herbs
+component[3]=gralic
+component[4]=apple
+component[5]=beetroot

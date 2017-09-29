@@ -1,0 +1,9 @@
+name=Kotlet
+energymin=2
+hpmin=15
+gold=14
+position=1
+type=1
+rank=0
+component[1]=meat
+component[2]=onion

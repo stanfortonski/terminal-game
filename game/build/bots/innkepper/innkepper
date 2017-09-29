@@ -1,0 +1,16 @@
+name=Oberżysta
+lvl=5
+exp=50
+learnpoints=25
+strength=10
+dexterity=5
+defense=10
+dmgmin=3
+dmgmax=4
+hpmin=100
+hpmax=100
+dodge=10
+block=3
+gold=200
+position=1
+chance=20

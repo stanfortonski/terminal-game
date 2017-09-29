@@ -1,0 +1,16 @@
+name=Ksiądz Wacław
+lvl=10
+learnpoints=50
+strength=1
+dexterity=1
+dmgmin=2
+dmgmax=4
+crit=1
+energymin=50
+energymax=50
+hpmin=200
+hpmax=200
+hpreg=40
+energyreg=40
+gold=999
+position=1
