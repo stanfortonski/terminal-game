@@ -1,0 +1,104 @@
+!start_state: 1
+
+!npc: 1
+Niech niebiosa trzymaj¥ cie w swojeje opiece!
+!end
+
+!player: 2
+Witam, ksi©dza!
+!end
+
+!npc: 2
+A tak... Kim jeste˜?
+!end
+
+!player: 3
+Przychodz© z polecenia rybaka Stana.
+!end
+
+!npc: 3
+Hymm...
+!end
+
+!player: 4
+Straciˆem pami©†... Czy m¢gˆby mi ksi¥dz pom¢c?
+!end
+
+!npc: 4
+C¢¾ chyba nie ma na to lekarstwa.
+!end
+
+!npc: 5
+Taka musiaˆa by† wola boga!
+!end
+
+!player: 6
+Czyli nie dostane od ksi©dza pomocy?
+!end
+
+!npc: 6
+Czas i modlitwa dziaˆaj¥ cuda.
+!get_state: 2
+!end
+
+!start_state: 2
+
+!player: 1
+Witam
+!end
+
+!npc: 1
+Ahh to ty...
+!end
+
+!player: 2
+Moge w czym˜ pom¢c?
+Czemu zakonnice milcz¥?
+!end
+
+!npc: 100
+Chyba jest co mo¾esz zrobi†...
+!end
+
+!npc: 101
+Ostatnimi czasy moi wierni gˆoduj¥...
+!end
+
+!player: 102
+Rozumiem jedzenie...
+!end
+
+!npc: 102 
+Tutejszym przysmakiem biedoty jest szuczurze mi©so. Przynie˜ mi 10 sztuk.
+Wynagrodze ci to!
+!mission: rat_meats
+!get_state: 3
+!end
+
+!player: 103
+Niech b©dzie!
+!end
+
+!npc: 200
+Bo ˜lubowaˆy czysto˜†, a milczenie wi¥¾e si© z unikaniem zˆa.
+!end
+
+!player: 201
+Rozumiem.
+!end
+
+!start_state: 3
+
+!player: 1
+Ma ksi¥dz mo¾e jakie˜ lekarstwa b¥d« zioˆa?
+Przyszedˆem si© pomodli†.
+!end
+
+!npc: 100
+Ostatnio mamy braki w zapasach, ale moge sprzeda† ci przepis.
+!trade
+!end
+
+!npc: 200
+Dobrze synu! Dom bo¾y jest otwarty dla wszytkich!
+!end

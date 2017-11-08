@@ -1,0 +1,14 @@
+name=Kusza
+dmgmin=10
+dmgmax=10
+crit=40
+dodge=5
+block=2
+hitback=2
+gold=80
+position=1
+type=2
+rank=0
+needlvl=6
+needstr=15
+needdex=5

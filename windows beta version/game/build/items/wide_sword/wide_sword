@@ -1,0 +1,12 @@
+name=Szeroki miecz
+dmgmin=15
+dmgmax=20
+gold=150
+position=1
+type=2
+rank=0
+needlvl=7
+needstr=10
+component[1]=items/sword/sword
+component[2]=items/edge/edge
+component[3]=items/steel/steel

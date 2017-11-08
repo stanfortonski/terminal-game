@@ -1,0 +1,11 @@
+name=Nap¢j uzdrawiaj¥cy
+gold=30
+position=1
+type=1
+rank=0
+hpmin=50
+component[1]=items/water/water
+component[2]=items/herbs/herbs
+component[2]=items/gralic/gralic
+component[3]=items/herbalsoup/herbalsoup
+

@@ -1,0 +1,14 @@
+name=Kusza Stra¾nika
+dmgmin=20
+dmgmax=25
+crit=40
+dodge=10
+block=10
+hitback=20
+gold=300
+position=1
+type=2
+rank=0
+needlvl=13
+needstr=50
+needdex=20

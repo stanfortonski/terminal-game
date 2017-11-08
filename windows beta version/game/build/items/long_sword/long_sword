@@ -1,0 +1,15 @@
+name=Dˆugi miecz
+strength=2
+defense=8
+dmgmin=10
+dmgmax=20
+crit=5
+block=10
+hitback=7
+gold=300
+position=1
+type=2
+rank=0
+descriptions=Bardzo dˆugi miecz p¢ˆtorar©czny
+needlvl=10
+needstr=40

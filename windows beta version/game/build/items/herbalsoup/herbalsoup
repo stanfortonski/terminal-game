@@ -1,0 +1,9 @@
+name=Zupa zioˆowa
+energymin=20
+gold=30
+position=1
+type=1
+rank=6
+component[1]=items/herbs/herbs
+component[2]=items/gralic/gralic
+component[3]=items/rat_tail/rat_tail

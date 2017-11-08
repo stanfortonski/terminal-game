@@ -1,0 +1,11 @@
+name=Eliksir uzdrawiaj¥cy
+gold=55
+position=1
+type=1
+rank=0
+hpmin=100
+component[1]=items/water/water
+component[2]=items/herbs/herbs
+component[3]=items/gralic/gralic
+component[4]=items/apple/apple
+component[5]=items/beetroot/beetroot

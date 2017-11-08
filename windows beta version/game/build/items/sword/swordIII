@@ -1,0 +1,17 @@
+name=Miecz
+lvl=3
+defense=3.56895
+dmgmin=3
+dmgmax=6
+crit=1
+dodge=1
+block=1
+hitback=1
+gold=402
+position=1
+type=2
+rank=3
+descriptions=Miecz jak miecz...
+needlvl=3
+needstr=5
+needdex=1

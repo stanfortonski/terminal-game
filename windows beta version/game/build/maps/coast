@@ -1,0 +1,12 @@
+name=Wybrze¾e
+description=Wybrze¾© nieopodal portu FlawHang.\nTo tu wyrzuciˆo ci© morz©.
+id=2
+npc[1]=turtle
+npc[2]=turtle
+npc[3]=turtle
+npc[4]=snake
+npc[5]=snake
+npc[6]=rat
+npc[7]=rat
+npc[8]=hawk
+

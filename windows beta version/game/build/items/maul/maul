@@ -1,0 +1,14 @@
+name=Mˆot na Ogra
+strength=20
+defense=20
+dmgmin=20
+dmgmax=50
+crit=20
+block=20
+gold=400
+position=1
+type=2
+rank=6
+descriptions=Wielki ci©¾ki mˆot. Powiadaj¥, ¾e za jego pomoc¥ mo¾na zabi† nawet Trola!
+needlvl=14
+needstr=70

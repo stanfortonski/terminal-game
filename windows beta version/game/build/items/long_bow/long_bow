@@ -1,0 +1,15 @@
+name=Dàugi ùuk
+dexterity=15
+dmgmin=20
+dmgmax=20
+crit=15
+powercrit=15
+energymin=10
+energyreg=10
+hitback=30
+gold=300
+position=1
+type=2
+rank=0
+needlvl=12
+needdex=60

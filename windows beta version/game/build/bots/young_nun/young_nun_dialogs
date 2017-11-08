@@ -1,0 +1,51 @@
+!start_state: 1
+
+!player: 1
+Cze˜† pi©kna!
+!end
+
+!action:
+Zakonnica rozgl¥da si©
+!end
+
+!npc: 1
+Nie wolno mi z tob¥ rozmawia†!
+!get_state: 2
+!end
+
+!start_state: 2
+
+!player: 1
+Witaj! Teraz ju¾ porozmawiasz ze mn¥?
+!end
+
+!npc: 1
+Czego ty odemnie chcesz?!
+!end
+
+!player: 2
+Taka dziewczyna jak ty marnuje si© w zakonie!
+!end
+
+!action:
+Zakonnica zarumieniˆa si© i milczy
+!end
+
+!npc: 2
+!get_state: 3
+!end
+
+!start_state: 3
+
+!npc: 1
+Znowu zaczynasz mnie n©ka†!
+Id« sobi©!
+!end
+
+!player: 2
+Ja tylko...
+!end
+
+!npc: 2
+Daj spok¢j! Nie dam ci! Jestem zakonnic¥! 
+!end

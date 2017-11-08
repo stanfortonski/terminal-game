@@ -1,0 +1,16 @@
+name=ùuk
+dexterity=5
+dmgmin=10
+dmgmax=20
+crit=10
+powercrit=10
+energymin=10
+energyreg=1
+hitback=30
+gold=200
+position=1
+type=2
+rank=0
+needlvl=12
+needdex=40
+descriptions=Dla wprawnych

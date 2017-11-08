@@ -1,0 +1,6 @@
+name=Wschodnia Brama FlawHang
+description=Miasto FlawHang stoi teraz przed tob¥ otworem.
+id=7
+npc[1]=guard
+npc[2]=guard
+npc[3]=hunter

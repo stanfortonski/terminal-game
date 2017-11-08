@@ -1,0 +1,11 @@
+name=Lekka zbroja najemnika
+dexterity=5
+defense=24
+dodge=4
+block=4
+hitback=4
+gold=250
+position=1
+type=5
+rank=0
+needlvl=1

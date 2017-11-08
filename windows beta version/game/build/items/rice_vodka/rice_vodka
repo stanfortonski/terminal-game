@@ -1,0 +1,9 @@
+name=Ry¾¢wka
+descriptions=Posiada 16% alkoholu.
+gold=14
+position=1
+type=1
+rank=0
+hpmin=4
+component[1]=rice
+component[1]=vodka

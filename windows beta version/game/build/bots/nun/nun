@@ -1,0 +1,12 @@
+name=Zakonnica
+lvl=5
+exp=100
+learnpoints=25
+defense=10
+energymin=10
+energymax=10
+hpmin=100
+hpmax=100
+hpreg=10
+energyreg=10
+position=1

@@ -1,0 +1,15 @@
+name=ùuk
+dexterity=3
+dmgmin=8
+dmgmax=16
+crit=4
+powercrit=9
+energymin=9
+energyreg=1
+hitback=20
+gold=180
+position=1
+type=2
+rank=0
+needlvl=7
+needdex=25

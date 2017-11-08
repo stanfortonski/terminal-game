@@ -1,0 +1,11 @@
+name=Tarcza z płytowa
+block=40
+gold=500
+position=1
+type=3
+rank=6
+descriptions=Wykonana z jednolitego płata stali.
+needlvl=14
+needstr=30
+needdex=10
+defense=30

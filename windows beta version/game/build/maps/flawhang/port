@@ -1,0 +1,8 @@
+name=Port FlawHang
+description=To tu odbywa si© rozˆadunek importowanych towar¢w.
+id=13
+npc[1]=food_seller
+npc[2]=thomas
+npc[3]=elite_guard
+npc[4]=beggar
+npc[5]=julia

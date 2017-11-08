@@ -1,0 +1,17 @@
+name=Pyton
+lvl=7
+exp=95
+learnpoints=35
+strength=6
+dexterity=5
+dmgmin=5
+dmgmax=9
+crit=4
+powercrit=2
+hpmin=140
+hpmax=140
+block=3
+hitback=5
+gold=20
+position=1
+chance=40

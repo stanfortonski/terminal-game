@@ -1,0 +1,15 @@
+name=Mongersztern
+defense=5
+dmgmin=10
+dmgmax=15
+block=5
+hitback=10
+gold=150
+position=1
+type=2
+rank=6
+descriptions=Du¾a metalowa paˆka z kolcami.
+needlvl=7
+needstr=10
+component[1]=items/axe/axe
+component[2]=items/steel/steel
