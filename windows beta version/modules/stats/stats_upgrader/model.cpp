@@ -9,7 +9,7 @@ void StatsUpgrader::calcSill()
 
 void StatsUpgrader::calcLearnPoints()
 {
-	learnPoints = level * NEWLP;
+	learnPoints += NEWLP;
 }
 
 void StatsUpgrader::calcDmg()

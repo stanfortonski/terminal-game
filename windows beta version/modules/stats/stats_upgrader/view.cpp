@@ -10,9 +10,7 @@ bool StatsUpgrader::addExp(const double & val)
 
 	if (isNextLevel())
 	{
-		cout<<"\nAwans na kolejny poziom!\n\n";
-		cout<<Color::YELLOW<<"[Dalej]"<<Color::DEFAULT;
-		paused();
+		cout<<"\nAwans na kolejny poziom!\n\n";;
 		updateLvl();
 		return true;
 	}

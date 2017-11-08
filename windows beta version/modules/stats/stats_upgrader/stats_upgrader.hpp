@@ -11,7 +11,7 @@
 
 class StatsUpgrader: public BasicStats
 {
-	enum {MINDMG = 1, MAXDMG = 4, NEWLP = 5, HPUP = 20, TONEXTLVL = 800};
+	enum {MINDMG = 1, MAXDMG = 4, NEWLP = 6, HPUP = 20, TONEXTLVL = 500};
 
 	unsigned level = 0;
 	double experience = 0;
