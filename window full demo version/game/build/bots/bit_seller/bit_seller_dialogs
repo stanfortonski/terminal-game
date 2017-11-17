@@ -1,0 +1,49 @@
+!start_state: 1
+
+!player: 1
+ùadny naszyjnik!
+!end
+
+!npc: 1
+Naszyjnik? To jest magiczny amulet gàupcze!
+!end
+
+!player: 2
+Co takiego? Magiczny? ha ha!
+!end
+
+!npc: 2
+Chyba nie rozumiesz? To wytàumacze ci...
+!end
+
+!action:
+Z amuletu unosi si© dziwna aura
+!end
+
+!player: 3
+Dobra rozumiem.
+!end
+
+!npc: 3
+Jeden zwi©ksza sià©, drugi energi©...
+!end
+
+!player: 4
+To ile taki kosztuj©?
+!end
+
+!npc: 4
+Dogadamy si© piekniutki.
+!get_state: 2
+!trade
+!end
+
+!start_state: 2
+
+!npc: 1
+Mam coò dla ciebi©...
+!end
+
+!npc: 2
+!trade
+!end

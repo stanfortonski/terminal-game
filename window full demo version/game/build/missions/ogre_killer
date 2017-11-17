@@ -1,0 +1,5 @@
+name=*Gubernator prosi o pozbycie si© ogr¢w!
+order_murder_name[1]=forest_ogre
+order_murder_amount[1]=5
+award_gold=500
+award_exp=1000

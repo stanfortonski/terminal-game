@@ -1,0 +1,9 @@
+!start_state: 1
+
+!npc: 1
+Zawsze ˜wie¾y pokarm!
+!end
+
+!npc: 2
+!trade
+!end

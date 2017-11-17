@@ -1,0 +1,204 @@
+!start_state: 1
+
+!action
+Jej pi©kno˜† ci© onie˜miela
+!end
+
+!player: 1
+Wwwitaj
+!end
+
+!npc: 1
+Cze˜†. Nigdy cie tu wcze˜niej nie widziaˆam.
+!end
+
+!player: 2
+Jestem tu od niedawna...
+!end
+
+!npc: 2
+Ch©tnie cie posˆucham... A mam na imi© Julia miˆo mi.
+!end
+
+!player: 3
+Piekn© imi©... No wi©c...
+!end
+
+!action
+10 minut p¢«niej
+!end
+
+!player: 3
+U og¢lniaj¥c moj¥ opowied« stwierdz© i¾ jestem rozbitkiem.
+!end
+
+!npc: 3
+Miaˆe˜ szcz©˜ci©. 
+!end
+
+!npc: 4
+Szczerze m¢wi¥c to wydajesz mi si© znajomy...
+!end
+
+!npc: 5
+Jak bym ci© ju¾ gdzie˜ widziaˆa.
+!end
+
+!npc: 6
+To chyba raczej nie mo¾liwe.
+!end
+
+!npc: 6
+Niewa¾ne. Musze i˜† pogadamy innym razem! Pa!
+!end
+
+!action
+Kobieta oddala si©
+!end
+
+!npc: 7
+!get_state: 2
+!end
+
+!start_state: 2
+
+!action
+Kobieta jest wyra«nie zarumieniˆa si© na tw¢j widok
+!end
+
+!player: 1
+Witaj, co sˆycha†?
+!end
+
+!npc: 2
+Ju¾ wiem sk¥d cie pami©tam!
+!end
+
+!npc: 3
+Kilka lat temu widziaˆam ci© na wyspie Ergios. Dowodziˆe˜ okr©tem...
+!end
+
+!player: 4
+Hymm...
+!end
+
+!npc: 4
+Nic nie pami©tasz?
+!end
+
+!player: 5
+No c¢¾...
+!end
+
+!npc: 5
+No wi©c... Ergios Byˆo wtedy w zˆej sytuacji maˆo brakowaˆo a wybuchˆa by wojna domowa.
+!end
+
+!npc: 6
+Wszyscy gˆodowali... Bandyci zaatakowali w¢wczas port. Niestety byˆam ˜wiatkiem tych straszynych wydarzeä. To byˆa poprostu rze«.
+!end
+
+!player: 7
+Do rzeczy.
+!end
+
+!npc: 8
+Tak tak... Astanie Rhesos w¢wczas obroniˆe˜ niewinnych ludzi! Przybyˆe˜ na statku wraz ze swoim oddziaˆem.
+!end
+
+!npc: 9
+Pokonaˆe˜ bandyt¢w i opatrzyˆe˜ rannych. Zaimponowaˆe˜ mi tym.
+!end
+
+!action
+Powoli sobie przypominasz, widzisz obrazy tych wydarzeä jakby we mgle
+!end
+
+!npc: 10
+Uratowaˆe˜ mi ¾ycie! Obiecaˆam ci ¾© zostane twoj¥ ¾on¥...
+!end
+
+!player: 11
+Ja... Astan Rhesos...
+!end
+
+!action
+Odchodzisz pogubiony
+!end
+
+!npc: 11
+!get_state: 3
+!end
+
+!start_state: 3
+
+!npc: 1
+Wi©c przyszedˆe˜ Astan.
+!end
+
+!player: 2
+Dzi©kuje ci dzieki tobie przynajmniej wiem jak si© nazywam.
+!end
+
+!npc: 3
+Kiedy˜ uratowaˆe˜ mi ¾yci©, jednak ja nic szczeg¢lnego nie mog© zrobi† dla ciebi© dzisiaj.
+!end
+
+!player: 4
+Nieprzejmuj si©!
+!end
+
+!player: 5
+M¢wiˆa˜, ¾e miaˆa˜ zosta† moj¥ ¾on¥. Niestety nie jestem juz tym komu to obiecaˆa˜. 
+!end
+
+!npc: 6
+Obietnica to... obietnica.
+!end
+
+!npc: 7
+!get_state: 4
+!end
+
+!start_state: 4
+
+!npc: 1
+Hej Astan!
+!end
+
+!player: 2
+Cze˜† Julio
+!end
+
+!player: 2
+Wyruszysz ze mn¥ w drog©?
+!end
+
+!npc: 1 
+Je˜li tego odemnie oczekujesz...
+!end
+
+!player: 2
+Opowiesz mi wszystko jeszcze raz.
+!end
+
+!npc: 2
+!get_state: 5
+!group
+!end
+
+!start_state: 5
+
+!npc: 1
+Co si© staˆo Astanku?
+!end
+
+!player: 2
+Wszystko jest w porz¥dku.
+Narazie id« odpocz¥†. Potem po ciebie przyjd©.
+!end
+
+!npc: 200
+B©de czekaˆa na ciebie we FlawHang.
+!get_state: 4
+!end

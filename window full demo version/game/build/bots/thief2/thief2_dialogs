@@ -1,0 +1,22 @@
+!start_state: 1
+
+!npc: 1
+Hej chàopcze chcesz si© zabawiÜ?
+!end
+
+!player: 2
+Jasne dziewko!
+Nie dzi©ki...
+!end
+
+!npc: 100
+çle trafiàeò!
+!end
+
+!npc: 101
+!battle
+!end
+
+!npc: 200
+Szkoda, twoja strata...
+!end

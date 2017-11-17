@@ -1,0 +1,87 @@
+!start_state: 1
+
+!npc: 1
+Tak, co si© staˆo?
+!end
+
+!player: 2
+Ty tu dowodzisz?
+!end
+
+!npc: 2
+Dowodz©? Zarz¥dzam miastem z woli miˆo˜ciwego kr¢la.
+!end
+
+!npc: 3
+Do rzeczy czego chcesz?
+!end
+
+!player: 4
+Ma pan jakie˜ informacje na temat ostatnich wypadk¢w morskich?
+!end
+
+!npc: 4
+Nie nic mi nie wiadomo. To tyle?!
+!end
+
+!npc: 5
+!get_state: 2
+!end
+
+!start_state: 1
+
+!player: 1
+Co sˆychac w kr¢lestwie?
+Szukam pracy.
+!end
+
+!npc: 100
+Dostawy do miasta si© op¢«niaj¥...
+!end
+
+!player: 101
+Hymm...
+!end
+
+!npc: 101
+Ju¾ zawracaj mi gˆowy!
+!end
+
+!npc: 200
+W lasach grasuj¥ ogry!
+!end
+
+!npc: 201
+Ostatnimi czasy zrobiˆy si© agresywne i odcinaj¥ nas od reszty ˜wiata.
+!end
+
+!npc: 202
+Podejmiesz sie ryzyka?
+!end
+
+!player: 203
+Pomy˜lmy, a co z tego b©de miaˆ?
+!end
+
+!npc: 203
+Zaznasz wdzi©czno˜ci FlawHang oraz zarobisz 500 sztuk zˆota.
+!end
+
+!player: 204
+Zgoda!
+!end
+
+!npc: 204
+!get_state: 3
+!mission: ogre_killer
+!end
+
+!start_state: 3
+
+!npc: 1
+Tak, co si© staˆo?
+!end
+
+!player: 2
+Nic nie przeszkadzaj sobi©. 
+!end

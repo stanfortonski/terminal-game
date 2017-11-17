@@ -1,0 +1,18 @@
+!start_state: 1
+
+!npc: 1
+Cooo chcesz?
+Niewidziszz jestemmm tuu strazznikiemm.
+!end
+
+!action
+Czu† alkohol
+!end
+
+!player: 2
+Baczno˜† stra¾niku!
+!end
+
+!npc: 2
+Ooo dow¢dca!
+!end

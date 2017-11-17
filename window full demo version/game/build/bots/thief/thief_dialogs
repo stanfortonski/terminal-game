@@ -1,0 +1,22 @@
+!start_state: 1
+
+!npc: 1
+Czego si© patrzysz?
+!end
+
+!player: 2
+Przepraszam szanownego pana.
+Na twoj¥ paryszyw¥ mord©.
+!end
+
+!npc: 100
+Tym razem ci daruj©!
+!end
+
+!npc: 200
+Zaaaabij©!!!
+!end
+
+!npc: 201
+!battle
+!end

@@ -1,0 +1,32 @@
+!start_state: 1
+
+!player: 1
+Hejka
+!end
+
+!npc: 2
+Hej
+!end
+
+!player: 3
+Co tam sprzedajesz?
+!end
+
+!npc: 3
+Co˜ co zwi©kszy siˆy takiemu postawnemu chˆopakowi!
+!end
+
+!npc: 4
+!get_state: 2
+!trade
+!end
+
+!start_state: 2
+
+!npc: 1
+Oj to ty mi©˜niaku...
+!end
+
+!npc: 2
+!trade
+!end

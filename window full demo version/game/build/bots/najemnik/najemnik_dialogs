@@ -1,0 +1,30 @@
+!start_state: 1
+
+!npc: 1
+Czego chcesz?
+!end
+
+!player: 2
+Sˆyszaˆem ¾e moge ci© wynaj¥†.
+!end
+
+!npc: 2
+Za odpowiedni¥ sume zabij© i kr¢la...
+!end
+
+!npc: 3
+Poka¾ mi ¾e si© nadajesz na dow¢dce to rusze z tob¥!
+!end
+
+!player: 4
+Musze jeszcze potrenowa†.
+Ruszajmy przyjacielu!
+!end
+
+!npc: 100
+Ta...
+!end
+
+!npc: 200
+!group
+!end

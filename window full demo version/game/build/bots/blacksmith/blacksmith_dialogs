@@ -1,0 +1,9 @@
+!start_state: 1
+
+!npc: 1
+Jestem miejscowym kowalem czego ci potrzeba?
+!end
+
+!npc: 2
+!trade
+!end

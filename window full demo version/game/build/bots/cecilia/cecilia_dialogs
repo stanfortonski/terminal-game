@@ -1,0 +1,22 @@
+!start_state: 1
+
+!action
+Cecilia to miejscowa dziwka dobrze ka¾demu znana
+!end
+
+!npc: 1
+Chcesz?
+!end
+
+!player: 2
+Dupy?
+!end
+
+!npc: 2
+Zaspokoje ka¾dego.
+!end
+
+!player: 3
+Dobra chod«my.
+Nie mam ochoty.
+!end

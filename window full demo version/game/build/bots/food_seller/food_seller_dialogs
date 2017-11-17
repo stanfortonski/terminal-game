@@ -1,0 +1,9 @@
+!start_state: 1
+
+!npc: 1
+Sprzedaje ¾ywno˜†. Czego ci potrzeba?
+!end
+
+!npc: 2
+!trade
+!end

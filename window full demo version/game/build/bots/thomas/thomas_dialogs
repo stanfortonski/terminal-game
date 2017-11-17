@@ -1,0 +1,35 @@
+!start_state: 1
+
+!player: 1
+Witaj
+!end
+
+!npc: 1
+Witam
+!end
+
+!player: 2
+Jak leci?
+Co powiesz mi o tej okolicy?
+S¥ tu jakie˜ ciekawe miejsca?
+!end
+
+!npc: 100
+Po staremu.
+!end
+
+!npc: 200
+FlawHang to mo¾e maˆa ale bogata mie˜cina.
+!end
+
+!npc: 201
+Jedno jest plusem tego miejsca to strefa zwolniona z podatk¢w.
+!end
+
+!npc: 202
+Mo¾e to jest powodem dobrobytu mieszkaäc¢w.
+!end
+
+!npc: 300
+Raz na jaki˜ czas go˜cimy tu jaki˜ okr©t wojskowy.
+!end

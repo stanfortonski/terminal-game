@@ -1,0 +1,17 @@
+!start_state: 1
+
+!action
+Widzisz peˆno mieczy, obuch¢w i topor¢w
+!end
+
+!player: 1
+To na sprzeda¾?
+!end
+
+!npc: 1
+Jasn©. Czego ci potrzeba?
+!end
+
+!npc: 2
+!trade
+!end

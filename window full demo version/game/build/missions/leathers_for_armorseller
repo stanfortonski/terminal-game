@@ -1,0 +1,15 @@
+name=Wilcze sk¢ry dla chamskiego sprzedawcy.
+item_order[1]=items/skin/skin
+item_order[2]=items/skin/skin
+item_order[3]=items/skin/skin
+item_order[4]=items/skin/skin
+item_order[5]=items/skin/skin
+item_order[6]=items/skin/skin
+item_order[7]=items/skin/skin
+item_order[8]=items/skin/skin
+item_order[9]=items/skin/skin
+item_order[10]=items/skin/skin
+award_item[1]=items/pads/pads
+award_item[2]=items/helmet/helmet
+award_item[3]=items/farmer_armor/farmer_armor
+award_exp=200

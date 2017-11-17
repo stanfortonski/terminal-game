@@ -1,0 +1,23 @@
+!start_state: 1
+
+!player: 1
+Polej przyjacielu!
+!end
+
+!npc: 1
+Ahh... Witamy w gospodzie!
+!end
+
+!player: 2
+Co sˆycha† w okolicy?
+Zgˆodaniaˆem.
+!end
+
+!npc: 100
+Miasto jak to miasto zawsze co˜ sie dzieje...
+Jak b©d© wiedziaˆ co˜ co ci© zainteresuj© to ci powiem.
+!end
+
+!npc: 200
+!trade
+!end

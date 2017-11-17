@@ -1,0 +1,124 @@
+!start_state: 1
+
+!player: 1
+Witaj! Czym si© zajmujesz?
+!end
+
+!npc: 1
+Nowy w mie˜cie co?
+!end
+
+!player: 2
+No c¢¾ to raczej wida†...
+!end
+
+!npc: 2
+Sprzedaje uzbrojenie chˆopcze, ale ciebie nie bedzie na nie sta†.
+!end
+
+!player: 3
+Nie pierdol. Na takich ja ty nie mam czasu!
+Poka¾ mi co tam masz na sprzeda¾! Lepiej...
+!end
+
+!npc: 100
+Taki˜ mocny w g©bie? 
+Mam dla ciebie propozycj© "mi©˜niaku".
+!end
+
+!player: 101
+Co takiego?
+!end
+
+!npc: 101
+No dobra! Przyniesiesz mi wilcze sk¢ry, a ja ci© uzbroj©.
+!end
+
+!npc: 102
+Co ty na to?
+!end
+
+!player: 102
+Pomy˜l©...
+!get_state: 2
+!end
+
+!npc: 200
+!trade
+!get_state: 3
+!end
+
+!start_state: 2
+
+!npc: 1
+To chcesz t¥ robote?
+!end
+
+!player: 2
+Wchodz© w to!
+Nie dzi©ki!
+!end
+
+!npc: 100
+!mission: leathers_for_armorseller
+!end
+
+!npc: 101
+B©d© czekaˆ!
+!end
+
+!npc: 200
+Nieszkodzi pomo¾e mi kto inny...
+get_state: 4
+!end
+
+!start_state: 3
+
+!player: 1
+Witaj!
+!end
+
+!npc: 1
+Ha, mam dla ciebie prace!
+!end
+
+!player: 2
+Co takiego?
+!end
+
+!npc: 2
+Dostarczysz mi wilcze sk¢ry.
+Nagroda cie usatysfakcjonuj©.
+!end
+
+!player: 2
+Niech b©dzie!
+Nie... nie lepiej nie!
+!end
+
+!npc: 100
+!mission: leathers_for_armorseller
+!end
+
+!npc: 101
+B©d© czekaˆ na ciebie!
+!end
+
+!npc: 200
+Twoja strata.
+get_state: 4
+!end
+
+!start_state: 4
+
+!npc: 1
+To znowu ty?
+!end
+
+!player: 2
+No ba! Pokazuj mi te towary!
+!end
+
+!npc: 2
+!trade
+!end

@@ -1,0 +1,22 @@
+!start_state: 1
+
+!npc: 1
+Tak?
+!end
+
+!player: 2
+Jak leci?
+Poćwiczysz ze mną?
+!end
+
+!npc: 100
+Jak od 20 lat cisza i spokój...
+!end
+
+!npc: 200
+Niech będzie rozruszam trochę stare kości... Chodź na arene.
+!end
+
+!npc: 201
+!fight
+!end

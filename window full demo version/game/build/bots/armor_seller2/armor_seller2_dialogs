@@ -1,0 +1,28 @@
+!start_state: 1
+
+!player: 1
+Co tam sprzedajesz?
+!end
+
+!npc: 1
+Zbroj©... Tylko najlepsz©...
+!end
+
+!player: 2
+No dobra poka¾ mi towary.
+!end
+
+!npc: 2
+Oczywi˜ci©...
+!end
+
+!npc: 3
+!get_state: 2
+!trade
+!end
+
+!start_state: 2
+
+!npc: 1
+!trade
+!end
