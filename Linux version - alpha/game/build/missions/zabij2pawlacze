@@ -1,6 +1,0 @@
-name=Zabij pawlaczów! Pawlacze te cholery zawsze muszą mi przeszkadzać!
-ordermurder_name[1]=pawlacz.npc
-ordermurder_amount[1]=2
-award_gold=10
-award_item=2
-award_item[1]=helmet

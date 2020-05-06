@@ -1,5 +1,0 @@
-name=Puszcza
-description=Podobno grasuje tu straszny potwór.\nCiekawę czy to prawda...
-id=6
-minlvl=14
-npc[1]=forest_ogre

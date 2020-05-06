@@ -1,8 +1,0 @@
-name=Tawerna Pod Zwisem
-description=Podobno mają tu dobre steki, a i dziewek nie brakuje.
-id=12
-npc[1]=innkeeper
-npc[2]=thief2
-npc[3]=guard_not_sober
-npc[4]=najemnik
-npc[5]=cecilia

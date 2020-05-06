@@ -1,7 +1,0 @@
-#!/bin/bash
-
-cd cmake
-rm -rf
-cmake ..
-make
-mv item_maker ../build/item_maker

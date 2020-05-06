@@ -1,8 +1,0 @@
-name=Rynek FlawHang
-description=Rynek miasta we FlawHang. Ciekawe co tu jest jeszcze do zwiedzenia.
-id=9
-npc[1]=guard
-npc[2]=blacksmith
-npc[3]=bit_seller2
-npc[4]=weapon
-npc[5]=guard

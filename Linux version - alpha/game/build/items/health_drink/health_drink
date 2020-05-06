@@ -1,8 +1,0 @@
-name=Napój uzdrawiający
-gold=30
-position=1
-type=1
-rank=0
-hpmin=50
-component[1]=water
-component[2]=herbs

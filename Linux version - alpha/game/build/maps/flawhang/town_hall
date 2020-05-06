@@ -1,8 +1,0 @@
-name=Ratusz FlawHang
-description=Pozwolono ci sie spotkać z urzędnikami.
-id=11
-npc[1]=elite_guard
-npc[2]=elite_guard
-npc[3]=secretary
-npc[4]=governor
-npc[5]=judge
